@@ -1,0 +1,3198 @@
+{
+  "meta": {
+    "origem": "jicopa-2025-anonimizada.xlsx",
+    "gerado_em": "2026-05-22",
+    "total_alunos": 275,
+    "total_jogos": 16,
+    "total_penalidades": 15,
+    "total_bandeiras": 13
+  },
+  "turmas": [
+    {
+      "name": "Turma A",
+      "period": "Matutino"
+    },
+    {
+      "name": "Turma A",
+      "period": "Vespertino"
+    },
+    {
+      "name": "Turma B1",
+      "period": "Matutino"
+    },
+    {
+      "name": "Turma B1",
+      "period": "Vespertino"
+    },
+    {
+      "name": "Turma B2",
+      "period": "Matutino"
+    },
+    {
+      "name": "Turma B2",
+      "period": "Vespertino"
+    },
+    {
+      "name": "Turma C",
+      "period": "Matutino"
+    },
+    {
+      "name": "Turma C",
+      "period": "Vespertino"
+    },
+    {
+      "name": "Turma D",
+      "period": "Matutino"
+    },
+    {
+      "name": "Turma D",
+      "period": "Vespertino"
+    },
+    {
+      "name": "Turma E",
+      "period": "Matutino"
+    },
+    {
+      "name": "Turma E",
+      "period": "Vespertino"
+    },
+    {
+      "name": "Turma GR",
+      "period": "Vespertino"
+    }
+  ],
+  "categorias": [
+    {
+      "name": "Infantil",
+      "turmas": [
+        "A m",
+        "A v",
+        "B1 m",
+        "B1 v",
+        "B2 m",
+        "B2 v"
+      ],
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Juvenil",
+      "turmas": [
+        "C m",
+        "C v",
+        "D m",
+        "D v"
+      ],
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Júnior",
+      "turmas": [
+        "E m",
+        "E v",
+        "GR"
+      ],
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    }
+  ],
+  "esportes": [
+    {
+      "name": "Futebol",
+      "type": "coletivo"
+    },
+    {
+      "name": "Futsal",
+      "type": "coletivo"
+    },
+    {
+      "name": "Queimada",
+      "type": "coletivo"
+    },
+    {
+      "name": "Rouba Bandeira",
+      "type": "coletivo"
+    },
+    {
+      "name": "Basquete",
+      "type": "coletivo"
+    },
+    {
+      "name": "Vôlei",
+      "type": "coletivo"
+    },
+    {
+      "name": "Taekwondo",
+      "type": "individual"
+    },
+    {
+      "name": "Ginástica",
+      "type": "individual"
+    }
+  ],
+  "alunos": [
+    {
+      "name": "Aluno 001",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 272",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 002",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Rouba Bandeira",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 273",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 003",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 274",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 004",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 005",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal"
+      ]
+    },
+    {
+      "name": "Aluno 006",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 007",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 008",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 009",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 010",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 011",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 012",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 013",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 014",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 015",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 016",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 017",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 018",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 019",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 020",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 022",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 021",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 023",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 024",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 025",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 026",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 027",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol"
+      ]
+    },
+    {
+      "name": "Aluno 028",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 029",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 030",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 031",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 032",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 033",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 034",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 035",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 036",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 037",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 038",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 038",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 039",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 040",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 041",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 042",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 043",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 044",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 045",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 046",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 047",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 048",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 049",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 050",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 051",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 052",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 053",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 054",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 055",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 060",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 056",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 057",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 058",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 059",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 061",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 062",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 063",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 064",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 065",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 066",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 067",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 068",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 069",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 070",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 071",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 072",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 073",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada"
+      ]
+    },
+    {
+      "name": "Aluno 074",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 075",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 076",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 077",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 078",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 079",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Vôlei",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 080",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 081",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 082",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 083",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 084",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 085",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 086",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 087",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 089",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 090",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 091",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 092",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 093",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 094",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 095",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol"
+      ]
+    },
+    {
+      "name": "Aluno 096",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 097",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 098",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 099",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 100",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 101",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 102",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 103",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 104",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 105",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 106",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 107",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 108",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 109",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 110",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 111",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 112",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 113",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 114",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 115",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol"
+      ]
+    },
+    {
+      "name": "Aluno 116",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 117",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 118",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 119",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal"
+      ]
+    },
+    {
+      "name": "Aluno 120",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 121",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 122",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 123",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 124",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 125",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 131",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 132",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal"
+      ]
+    },
+    {
+      "name": "Aluno 133",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 134",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 135",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 136",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 137",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 138",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 139",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 126",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 127",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol"
+      ]
+    },
+    {
+      "name": "Aluno 128",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 129",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 130",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futsal",
+        "Queimada"
+      ]
+    },
+    {
+      "name": "Aluno 140",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 141",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 142",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 143",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 144",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 145",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 146",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 147",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 148",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 149",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 150",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 151",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 152",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 153",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 154",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 155",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 156",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Vôlei",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 157",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 158",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 159",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada"
+      ]
+    },
+    {
+      "name": "Aluno 160",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 161",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 162",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 163",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 164",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 165",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 166",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 167",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 168",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 169",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 170",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 171",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 172",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 173",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 174",
+      "turma": "Turma B2",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal"
+      ]
+    },
+    {
+      "name": "Aluno 175",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 176",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 177",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 178",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 179",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 181",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 180",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 204",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 182",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada"
+      ]
+    },
+    {
+      "name": "Aluno 183",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 190",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 184",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 185",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 186",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 187",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 188",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 189",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 191",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 193",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 192",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 194",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 195",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 196",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 197",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 198",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 199",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada"
+      ]
+    },
+    {
+      "name": "Aluno 200",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 201",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 202",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 203",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 205",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 206",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 207",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 208",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 209",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 210",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 211",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 212",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 213",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 214",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 215",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 216",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 217",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 218",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 219",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 220",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 221",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 222",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 223",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 224",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 225",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 226",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 227",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada"
+      ]
+    },
+    {
+      "name": "Aluno 228",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 232",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 229",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 230",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 231",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 233",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 234",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 235",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 236",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 237",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 238",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 239",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 240",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 241",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 249",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Vôlei",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 242",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 243",
+      "turma": "Turma C",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 244",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 245",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 246",
+      "turma": "Turma A",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 247",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Queimada",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 248",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 250",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 251",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 252",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 253",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 254",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 255",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira"
+      ]
+    },
+    {
+      "name": "Aluno 256",
+      "turma": "Turma D",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 257",
+      "turma": "Turma A",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Queimada"
+      ]
+    },
+    {
+      "name": "Aluno 258",
+      "turma": "Turma B1",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo",
+        "Ginástica"
+      ]
+    },
+    {
+      "name": "Aluno 259",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": [
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete"
+      ]
+    },
+    {
+      "name": "Aluno 260",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 261",
+      "turma": "Turma E",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    },
+    {
+      "name": "Aluno 262",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 263",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 264",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 265",
+      "turma": "Turma C",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 266",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 267",
+      "turma": "Turma B2",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 268",
+      "turma": "Turma E",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 269",
+      "turma": "Turma D",
+      "period": "Matutino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Taekwondo"
+      ]
+    },
+    {
+      "name": "Aluno 270",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 271",
+      "turma": "Turma B1",
+      "period": "Matutino",
+      "esportes": []
+    },
+    {
+      "name": "Aluno 088",
+      "turma": "Turma GR",
+      "period": "Vespertino",
+      "esportes": [
+        "Futebol",
+        "Futsal",
+        "Queimada",
+        "Rouba Bandeira",
+        "Basquete",
+        "Vôlei"
+      ]
+    }
+  ],
+  "jogos": [
+    {
+      "esporte": "Futebol",
+      "categoria": "Infantil",
+      "time1": "A v",
+      "time2": "B2 m",
+      "vencedor": "A v",
+      "data": "2025-05-19",
+      "hora": "08:00:00",
+      "local": "Quadra",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Futebol",
+      "categoria": "Infantil",
+      "time1": "B1 m",
+      "time2": "B1 v",
+      "vencedor": "B1 m",
+      "data": "2025-05-20",
+      "hora": "09:30:00",
+      "local": "Quadra",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Futsal",
+      "categoria": "Infantil",
+      "time1": "A v",
+      "time2": "B2 m",
+      "vencedor": "A v",
+      "data": "2025-05-21",
+      "hora": "08:00:00",
+      "local": "Campo",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Futsal",
+      "categoria": "Infantil",
+      "time1": "B1 m",
+      "time2": "B1 v",
+      "vencedor": "B1 m",
+      "data": "2025-05-22",
+      "hora": "09:30:00",
+      "local": "Campo",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Queimada",
+      "categoria": "Infantil",
+      "time1": "A v",
+      "time2": "B2 m",
+      "vencedor": "A v",
+      "data": "2025-05-23",
+      "hora": "08:00:00",
+      "local": "Quadra",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Queimada",
+      "categoria": "Infantil",
+      "time1": "B1 m",
+      "time2": "B1 v",
+      "vencedor": "empate",
+      "data": "2025-05-19",
+      "hora": "08:00:00",
+      "local": "Quadra",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Rouba Bandeira",
+      "categoria": "Infantil",
+      "time1": "A v",
+      "time2": "B2 m",
+      "vencedor": "A v",
+      "data": "2025-05-20",
+      "hora": "09:30:00",
+      "local": "Quadra",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Rouba Bandeira",
+      "categoria": "Infantil",
+      "time1": "B1 m",
+      "time2": "B1 v",
+      "vencedor": "empate",
+      "data": "2025-05-21",
+      "hora": "08:00:00",
+      "local": "Campo",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Basquete",
+      "categoria": "Juvenil",
+      "time1": "C m",
+      "time2": "D v",
+      "vencedor": "D v",
+      "data": "2025-05-22",
+      "hora": "09:30:00",
+      "local": "Campo",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Basquete",
+      "categoria": "Juvenil",
+      "time1": "C v",
+      "time2": "D m",
+      "vencedor": "D m",
+      "data": "2025-05-23",
+      "hora": "08:00:00",
+      "local": "Quadra",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Vôlei",
+      "categoria": "Júnior",
+      "time1": "E m",
+      "time2": "E v",
+      "vencedor": "E m",
+      "data": "2025-05-19",
+      "hora": "08:00:00",
+      "local": "Quadra",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Vôlei",
+      "categoria": "Júnior",
+      "time1": "GR",
+      "time2": "E m",
+      "vencedor": "E m",
+      "data": "2025-05-20",
+      "hora": "09:30:00",
+      "local": "Quadra",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Taekwondo",
+      "categoria": "Infantil",
+      "time1": null,
+      "time2": null,
+      "vencedor": null,
+      "data": "2025-05-21",
+      "hora": "08:00:00",
+      "local": "Campo",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Taekwondo",
+      "categoria": "Infantil",
+      "time1": null,
+      "time2": null,
+      "vencedor": null,
+      "data": "2025-05-22",
+      "hora": "09:30:00",
+      "local": "Campo",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Ginástica",
+      "categoria": "Infantil",
+      "time1": null,
+      "time2": null,
+      "vencedor": null,
+      "data": "2025-05-23",
+      "hora": "08:00:00",
+      "local": "Quadra",
+      "placar_time1": null,
+      "placar_time2": null
+    },
+    {
+      "esporte": "Ginástica",
+      "categoria": "Infantil",
+      "time1": null,
+      "time2": null,
+      "vencedor": null,
+      "data": "2025-05-19",
+      "hora": "08:00:00",
+      "local": "Quadra",
+      "placar_time1": null,
+      "placar_time2": null
+    }
+  ],
+  "penalidades": [
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "B1 m",
+      "todos": false,
+      "motivo": "Andando em cima da mureta mesmo após ser alertado",
+      "pontos": 1
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "D v",
+      "todos": false,
+      "motivo": "Prática Anti-Desportiva",
+      "pontos": 2
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "D m",
+      "todos": false,
+      "motivo": "Uso do equipamento sem autorização, Ameaça",
+      "pontos": 4
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "D v",
+      "todos": false,
+      "motivo": "Prática Anti-Desportiva",
+      "pontos": 1
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "D m",
+      "todos": false,
+      "motivo": "Sairam sem autorização e trouxeram itens de fora para fundação",
+      "pontos": 2
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "D m",
+      "todos": false,
+      "motivo": "Sairam sem autorização e trouxeram itens de fora para fundação",
+      "pontos": 2
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "D m",
+      "todos": false,
+      "motivo": "Sairam sem autorização e trouxeram itens de fora para fundação",
+      "pontos": 2
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "C m",
+      "todos": false,
+      "motivo": "Sairam sem autorização e trouxeram itens de fora para fundação",
+      "pontos": 2
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "C m",
+      "todos": false,
+      "motivo": "Sairam sem autorização e trouxeram itens de fora para fundação",
+      "pontos": 2
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "B2 m",
+      "todos": false,
+      "motivo": "Bagunça na linha do campo",
+      "pontos": 1
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "B1 v",
+      "todos": false,
+      "motivo": "Bagunça na linha do campo",
+      "pontos": 1
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "D m",
+      "todos": false,
+      "motivo": "Prática Anti-Desportiva",
+      "pontos": 1
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "GR",
+      "todos": false,
+      "motivo": "Agreção ao professor",
+      "pontos": 1
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": "A v",
+      "todos": false,
+      "motivo": "Gestos Obscenos",
+      "pontos": 1
+    },
+    {
+      "tipo_destino": "turma",
+      "turma_codigo": null,
+      "todos": true,
+      "motivo": "Trouxeram Telefone",
+      "pontos": 1
+    }
+  ],
+  "bandeiras": {
+    "config": {
+      "num_jurados": 4,
+      "nota_min": 0.0,
+      "nota_max": 300.0,
+      "bonus": 5
+    },
+    "notas": [
+      {
+        "turma_codigo": "A v",
+        "categoria": "Infantil",
+        "notas": [
+          200.0,
+          230.0,
+          273.0,
+          260.0
+        ]
+      },
+      {
+        "turma_codigo": "A m",
+        "categoria": "Infantil",
+        "notas": [
+          230.0,
+          240.0,
+          258.0,
+          245.0
+        ]
+      },
+      {
+        "turma_codigo": "B2 m",
+        "categoria": "Infantil",
+        "notas": [
+          210.0,
+          235.0,
+          275.0,
+          260.0
+        ]
+      },
+      {
+        "turma_codigo": "B1 v",
+        "categoria": "Infantil",
+        "notas": [
+          230.0,
+          230.0,
+          273.0,
+          265.0
+        ]
+      },
+      {
+        "turma_codigo": "B2 v",
+        "categoria": "Infantil",
+        "notas": [
+          240.0,
+          235.0,
+          271.0,
+          265.0
+        ]
+      },
+      {
+        "turma_codigo": "B1 m",
+        "categoria": "Infantil",
+        "notas": [
+          210.0,
+          260.0,
+          269.0,
+          275.0
+        ]
+      },
+      {
+        "turma_codigo": "C m",
+        "categoria": "Juvenil",
+        "notas": [
+          210.0,
+          255.0,
+          278.0,
+          285.0
+        ]
+      },
+      {
+        "turma_codigo": "D m",
+        "categoria": "Juvenil",
+        "notas": [
+          230.0,
+          265.0,
+          278.0,
+          280.0
+        ]
+      },
+      {
+        "turma_codigo": "D v",
+        "categoria": "Juvenil",
+        "notas": [
+          250.0,
+          260.0,
+          273.0,
+          280.0
+        ]
+      },
+      {
+        "turma_codigo": "C v",
+        "categoria": "Juvenil",
+        "notas": [
+          260.0,
+          255.0,
+          291.0,
+          280.0
+        ]
+      },
+      {
+        "turma_codigo": "E m",
+        "categoria": "Júnior",
+        "notas": [
+          290.0,
+          270.0,
+          275.0,
+          290.0
+        ]
+      },
+      {
+        "turma_codigo": "E v",
+        "categoria": "Júnior",
+        "notas": [
+          300.0,
+          270.0,
+          284.0,
+          280.0
+        ]
+      },
+      {
+        "turma_codigo": "GR",
+        "categoria": "Júnior",
+        "notas": [
+          300.0,
+          300.0,
+          293.0,
+          295.0
+        ]
+      }
+    ]
+  }
+}

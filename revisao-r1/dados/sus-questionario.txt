@@ -1,0 +1,148 @@
+================================================================================
+QUESTIONÁRIO DE USABILIDADE — SUS (System Usability Scale)
+Adaptação para o português a partir de BROOKE (1996) — ver TEZZA & BORNIA (2009).
+Aplicação: Sistema Jicopa — avaliação exploratória com professores da Fundação JiCred.
+Data da aplicação: 22 de maio de 2026.
+================================================================================
+
+INSTRUÇÕES AO PARTICIPANTE
+--------------------------------------------------------------------------------
+Você acabou de utilizar o sistema Jicopa por aproximadamente um período de uso
+livre, sem instruções prévias. Para cada uma das 10 afirmações abaixo, indique
+o quanto você concorda ou discorda, marcando UM número de 1 a 5 segundo a escala:
+
+    1 — Discordo totalmente
+    2 — Discordo
+    3 — Indiferente / Não sei opinar
+    4 — Concordo
+    5 — Concordo totalmente
+
+Não há respostas certas ou erradas. Responda com base na sua experiência real
+durante o teste. Caso uma afirmação não faça sentido para você, marque 3.
+
+Por favor, NÃO deixe nenhum item em branco — o cálculo do escore SUS exige
+que as 10 respostas estejam preenchidas.
+
+--------------------------------------------------------------------------------
+IDENTIFICAÇÃO (preenchida pelo pesquisador)
+--------------------------------------------------------------------------------
+
+  Código do participante: ( ) P1    ( ) P2    ( ) P3
+  Modalidade que leciona: ______________________________
+  Tempo de uso do sistema na sessão: _______ minutos
+  Data: ____ / 05 / 2026
+
+================================================================================
+QUESTÕES
+================================================================================
+
+Q1. Acho que gostaria de usar este sistema com frequência.
+
+         (1)   (2)   (3)   (4)   (5)
+
+--------------------------------------------------------------------------------
+
+Q2. Considero o sistema mais complexo do que precisaria ser.
+
+         (1)   (2)   (3)   (4)   (5)
+
+--------------------------------------------------------------------------------
+
+Q3. Achei o sistema fácil de usar.
+
+         (1)   (2)   (3)   (4)   (5)
+
+--------------------------------------------------------------------------------
+
+Q4. Acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos para
+    conseguir usar este sistema.
+
+         (1)   (2)   (3)   (4)   (5)
+
+--------------------------------------------------------------------------------
+
+Q5. As várias funções do sistema me pareceram bem integradas.
+
+         (1)   (2)   (3)   (4)   (5)
+
+--------------------------------------------------------------------------------
+
+Q6. Senti que havia muita inconsistência neste sistema.
+
+         (1)   (2)   (3)   (4)   (5)
+
+--------------------------------------------------------------------------------
+
+Q7. Imagino que a maioria das pessoas aprenderia a usar este sistema
+    rapidamente.
+
+         (1)   (2)   (3)   (4)   (5)
+
+--------------------------------------------------------------------------------
+
+Q8. Achei o sistema atrapalhado/incômodo de usar.
+
+         (1)   (2)   (3)   (4)   (5)
+
+--------------------------------------------------------------------------------
+
+Q9. Senti-me confiante ao usar o sistema.
+
+         (1)   (2)   (3)   (4)   (5)
+
+--------------------------------------------------------------------------------
+
+Q10. Precisei aprender muitas coisas antes de conseguir começar a usar o
+     sistema.
+
+         (1)   (2)   (3)   (4)   (5)
+
+================================================================================
+COMENTÁRIOS LIVRES (opcional)
+================================================================================
+
+O que você MAIS gostou no sistema?
+________________________________________________________________________________
+________________________________________________________________________________
+
+O que você ACHOU MAIS DIFÍCIL ou confuso?
+________________________________________________________________________________
+________________________________________________________________________________
+
+Sugestão de melhoria:
+________________________________________________________________________________
+________________________________________________________________________________
+
+================================================================================
+ASSINATURA
+================================================================================
+
+Confirmo que respondi às questões com base na minha experiência real durante
+o teste do sistema Jicopa.
+
+  Participante: ________________________________________
+
+  Assinatura:   ________________________________________
+
+  Data: ____ / 05 / 2026
+
+================================================================================
+CÁLCULO DO ESCORE SUS (uso interno — não preencher pelo participante)
+================================================================================
+
+Itens ímpares (Q1, Q3, Q5, Q7, Q9):   contribuição = (resposta - 1)
+Itens pares  (Q2, Q4, Q6, Q8, Q10):   contribuição = (5 - resposta)
+Soma das 10 contribuições × 2,5 = escore SUS final (0–100).
+
+Interpretação de referência (BANGOR, KORTUM & MILLER, 2009):
+  > 85,5  — excelente (grade A)
+  72,6–85,5 — bom (grade B)
+  62,6–72,5 — aceitável (grade C — média da indústria ~68)
+  50–62,5 — marginal (grade D)
+  < 50   — não aceitável (grade F)
+
+Benchmark educacional (VLACHOGIANNI & KYRARINI, 2021): média 70,09.
+
+================================================================================
+FIM DO QUESTIONÁRIO — OBRIGADO PELA COLABORAÇÃO
+================================================================================

@@ -1,0 +1,430 @@
+﻿P1
+Você acabou de utilizar o sistema Jicopa por aproximadamente um período de uso
+livre, sem instruções prévias. Para cada uma das 10 afirmações abaixo, indique
+o quanto você concorda ou discorda, marcando UM número de 1 a 5 segundo a escala:
+
+
+    1 — Discordo totalmente
+    2 — Discordo
+    3 — Indiferente / Não sei opinar
+    4 — Concordo
+    5 — Concordo totalmente
+
+
+Não há respostas certas ou erradas. Responda com base na sua experiência real
+durante o teste. Caso uma afirmação não faça sentido para você, marque 3.
+
+
+Por favor, NÃO deixe nenhum item em branco — o cálculo do escore SUS exige
+que as 10 respostas estejam preenchidas.
+
+
+--------------------------------------------------------------------------------
+IDENTIFICAÇÃO (preenchida pelo pesquisador)
+--------------------------------------------------------------------------------
+
+
+  Código do participante: (x ) P1    ( ) P2    ( ) P3
+  Modalidade que leciona: ______________________________
+  Tempo de uso do sistema na sessão: 45 minutos
+  Data: 22 / 05 / 2026
+
+
+================================================================================
+QUESTÕES
+================================================================================
+
+
+Q1. Acho que gostaria de usar este sistema com frequência.
+
+
+         (1)   (2)   (3)   (X)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q2. Considero o sistema mais complexo do que precisaria ser.
+
+
+         (x)   (2)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q3. Achei o sistema fácil de usar.
+
+
+         (x)   (2)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q4. Acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos para
+    conseguir usar este sistema.
+
+
+         (x)   (2)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q5. As várias funções do sistema me pareceram bem integradas.
+
+
+         (1)   (x)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q6. Senti que havia muita inconsistência neste sistema.
+
+
+         (1)   (x)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q7. Imagino que a maioria das pessoas aprenderia a usar este sistema
+    rapidamente.
+
+
+         (1)   (2)   (3)   (x)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q8. Achei o sistema atrapalhado/incômodo de usar.
+
+
+         (x)   (2)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q9. Senti-me confiante ao usar o sistema.
+
+
+         (1)   (2)   (x)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q10. Precisei aprender muitas coisas antes de conseguir começar a usar o
+     sistema.
+
+
+         (1)   (x)   (3)   (4)   (5)
+
+
+================================================================================
+COMENTÁRIOS LIVRES (opcional)
+================================================================================
+
+
+O que você MAIS gostou no sistema?
+R: Junta tudo em um lugar só, e facilita a revisão e edição das informações.
+
+
+O que você ACHOU MAIS DIFÍCIL ou confuso?
+R:Cadastrar os Jogos, e acompanhar o jogos que estão ocorrendo, mas nada muito difícil de se adaptar
+
+
+Sugestão de melhoria:
+R: melhorar a maneira de apresentar os jogos que estão ocorrendo no momento e uma forma de organizar os jogos em blocos ao invés de lista.
+
+
+P2
+Você acabou de utilizar o sistema Jicopa por aproximadamente um período de uso
+livre, sem instruções prévias. Para cada uma das 10 afirmações abaixo, indique
+o quanto você concorda ou discorda, marcando UM número de 1 a 5 segundo a escala:
+
+
+    1 — Discordo totalmente
+    2 — Discordo
+    3 — Indiferente / Não sei opinar
+    4 — Concordo
+    5 — Concordo totalmente
+
+
+Não há respostas certas ou erradas. Responda com base na sua experiência real
+durante o teste. Caso uma afirmação não faça sentido para você, marque 3.
+
+
+Por favor, NÃO deixe nenhum item em branco — o cálculo do escore SUS exige
+que as 10 respostas estejam preenchidas.
+
+
+--------------------------------------------------------------------------------
+IDENTIFICAÇÃO (preenchida pelo pesquisador)
+--------------------------------------------------------------------------------
+
+
+  Código do participante: ( ) P1    (x ) P2    ( ) P3
+  Modalidade que leciona: ______________________________
+  Tempo de uso do sistema na sessão: 90 minutos
+  Data: 22 / 05 / 2026
+
+
+================================================================================
+QUESTÕES
+================================================================================
+
+
+Q1. Acho que gostaria de usar este sistema com frequência.
+
+
+         (1)   (2)   (x)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q2. Considero o sistema mais complexo do que precisaria ser.
+
+
+         (1)   (x)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q3. Achei o sistema fácil de usar.
+
+
+         (1)   (2)   (x)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q4. Acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos para
+    conseguir usar este sistema.
+
+
+         (1)   (2)   (3)   (x)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q5. As várias funções do sistema me pareceram bem integradas.
+
+
+         (1)   (2)   (3)   (x)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q6. Senti que havia muita inconsistência neste sistema.
+
+
+         (1)   (x)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q7. Imagino que a maioria das pessoas aprenderia a usar este sistema
+    rapidamente.
+
+
+         (1)   (2)   (x)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q8. Achei o sistema atrapalhado/incômodo de usar.
+
+
+         (1)   (x)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q9. Senti-me confiante ao usar o sistema.
+
+
+         (1)   (2)   (3)   (x)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q10. Precisei aprender muitas coisas antes de conseguir começar a usar o
+     sistema.
+
+
+         (1)   (x)   (3)   (4)   (5)
+
+
+================================================================================
+COMENTÁRIOS LIVRES (opcional)
+================================================================================
+
+
+O que você MAIS gostou no sistema?
+R: O Cadastro de Alunos foi muito facilitado, gostei também da função de penalidade, ficou prática de usar, os relatórios no final ficaram incríveis adorei a estética deles.
+
+
+O que você ACHOU MAIS DIFÍCIL ou confuso?
+R: A forma de selecionar os alunos substitutos achei complicada pois em uma lista grande de alunos por mais que esteja em ordem alfabética tem que ficar caçando o aluno certo.
+
+
+Sugestão de melhoria:
+R: Se desse para selecionar múltiplos alunos de uma vez para colocar como substitutos, não um por vez.
+
+
+P3
+Você acabou de utilizar o sistema Jicopa por aproximadamente um período de uso
+livre, sem instruções prévias. Para cada uma das 10 afirmações abaixo, indique
+o quanto você concorda ou discorda, marcando UM número de 1 a 5 segundo a escala:
+
+
+    1 — Discordo totalmente
+    2 — Discordo
+    3 — Indiferente / Não sei opinar
+    4 — Concordo
+    5 — Concordo totalmente
+
+
+Não há respostas certas ou erradas. Responda com base na sua experiência real
+durante o teste. Caso uma afirmação não faça sentido para você, marque 3.
+
+
+Por favor, NÃO deixe nenhum item em branco — o cálculo do escore SUS exige
+que as 10 respostas estejam preenchidas.
+
+
+--------------------------------------------------------------------------------
+IDENTIFICAÇÃO (preenchida pelo pesquisador)
+--------------------------------------------------------------------------------
+
+
+  Código do participante: ( ) P1    ( ) P2    ( x ) P3
+  Modalidade que leciona: ______________________________
+  Tempo de uso do sistema na sessão: 75 minutos
+  Data: 22 / 05 / 2026
+
+
+================================================================================
+QUESTÕES
+================================================================================
+
+
+Q1. Acho que gostaria de usar este sistema com frequência.
+
+
+         (1)   (2)   (3)   (4)   (x)
+
+
+--------------------------------------------------------------------------------
+
+
+Q2. Considero o sistema mais complexo do que precisaria ser.
+
+
+         (1)   (x)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q3. Achei o sistema fácil de usar.
+
+
+         (1)   (2)   (3)   (x)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q4. Acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos para
+    conseguir usar este sistema.
+
+
+         (1)   (2)   (3)   (x)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q5. As várias funções do sistema me pareceram bem integradas.
+
+
+         (1)   (2)   (3)   (x)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q6. Senti que havia muita inconsistência neste sistema.
+
+
+         (1)   (x)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q7. Imagino que a maioria das pessoas aprenderia a usar este sistema
+    rapidamente.
+
+
+         (1)   (x)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q8. Achei o sistema atrapalhado/incômodo de usar.
+
+
+         (1)   (x)   (3)   (4)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q9. Senti-me confiante ao usar o sistema.
+
+
+         (1)   (2)   (3)   (x)   (5)
+
+
+--------------------------------------------------------------------------------
+
+
+Q10. Precisei aprender muitas coisas antes de conseguir começar a usar o
+     sistema.
+
+
+         (1)   (2)   (3)   (x)   (5)
+
+
+================================================================================
+COMENTÁRIOS LIVRES (opcional)
+================================================================================
+
+
+O que você MAIS gostou no sistema?
+R: A avaliação dos jogos individuais e principalmente o cadastro dos atletas, ficou muito mais fácil, os relatórios além de informativos ficaram bonitos.
+
+
+O que você ACHOU MAIS DIFÍCIL ou confuso?
+R: Achei confuso o deletar, mesmo deletando um aluno ou turma ele continuava aparecendo na lista, mas como inativo.
+
+
+Sugestão de melhoria:
+R: Para aumentar um pouco a fonte das letras, um tema escuro ficaria legal também.
