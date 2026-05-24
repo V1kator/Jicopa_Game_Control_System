@@ -37,7 +37,7 @@ interface Props {
 export default function AlunosIndex({ alunos, turmas, filters }: Props) {
     const [turmaId, setTurmaId] = useState(filters.turma_id || '');
     const [period, setPeriod] = useState(filters.period || '');
-    const [active, setActive] = useState(filters.active || '');
+    const [active, setActive] = useState(filters.active || 'true');
 
     const [confirmDialog, setConfirmDialog] = useState<{
         open: boolean;
@@ -55,7 +55,7 @@ export default function AlunosIndex({ alunos, turmas, filters }: Props) {
         router.get('/admin/alunos', {
             turma_id: turmaId || undefined,
             period: period || undefined,
-            active: active || undefined,
+            active: active === 'true' ? undefined : active,
         }, {
             preserveState: true,
             replace: true,
@@ -120,9 +120,9 @@ export default function AlunosIndex({ alunos, turmas, filters }: Props) {
                         onChange={(e) => setActive(e.target.value)}
                         className="border border-gray-300 rounded-md px-3 py-2 text-sm"
                     >
-                        <option value="">Todos os status</option>
                         <option value="true">Ativos</option>
                         <option value="false">Inativos</option>
+                        <option value="all">Todos</option>
                     </select>
                     <button
                         onClick={handleFilter}

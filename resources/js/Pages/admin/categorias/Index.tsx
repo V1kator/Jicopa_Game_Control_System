@@ -31,7 +31,7 @@ interface Props {
 }
 
 export default function CategoriasIndex({ categorias, filters }: Props) {
-    const [active, setActive] = useState(filters.active || '');
+    const [active, setActive] = useState(filters.active || 'true');
     const reactivateId = (usePage().props as any).reactivate_id as number | undefined;
 
     const [confirmDialog, setConfirmDialog] = useState<{
@@ -48,7 +48,7 @@ export default function CategoriasIndex({ categorias, filters }: Props) {
 
     function handleFilter() {
         router.get('/admin/categorias', {
-            active: active || undefined,
+            active: active === 'true' ? undefined : active,
         }, {
             preserveState: true,
             replace: true,
@@ -92,9 +92,9 @@ export default function CategoriasIndex({ categorias, filters }: Props) {
                         onChange={(e) => setActive(e.target.value)}
                         className="border border-gray-300 rounded-md px-3 py-2 text-sm"
                     >
-                        <option value="">Todos os status</option>
                         <option value="true">Ativas</option>
                         <option value="false">Inativas</option>
+                        <option value="all">Todas</option>
                     </select>
                     <button
                         onClick={handleFilter}

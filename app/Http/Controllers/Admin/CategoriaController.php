@@ -16,16 +16,21 @@ class CategoriaController extends Controller
     {
         $query = Categoria::with('turmas', 'esportes');
 
-        // Filter by active status
-        if ($request->filled('active')) {
-            $query->where('active', $request->active === 'true');
+        // Filter by active status: default 'true' (apenas ativas);
+        // 'false' (apenas inativas); 'all' (todas).
+        $activeFilter = $request->input('active', 'true');
+        if ($activeFilter === 'false') {
+            $query->where('active', false);
+        } elseif ($activeFilter !== 'all') {
+            $query->where('active', true);
+            $activeFilter = 'true';
         }
 
         $categorias = $query->orderBy('name')->get();
 
         return Inertia::render('admin/categorias/Index', [
             'categorias' => $categorias,
-            'filters' => $request->only(['active']),
+            'filters' => ['active' => $activeFilter],
         ]);
     }
 

@@ -21,16 +21,21 @@ class EsporteController extends Controller
             $query->where('type', $request->type);
         }
 
-        // Filter by active status
-        if ($request->filled('active')) {
-            $query->where('active', $request->active === 'true');
+        // Filter by active status: default 'true' (apenas ativos);
+        // 'false' (apenas inativos); 'all' (todos).
+        $activeFilter = $request->input('active', 'true');
+        if ($activeFilter === 'false') {
+            $query->where('active', false);
+        } elseif ($activeFilter !== 'all') {
+            $query->where('active', true);
+            $activeFilter = 'true';
         }
 
         $esportes = $query->orderBy('name')->get();
 
         return Inertia::render('admin/esportes/Index', [
             'esportes' => $esportes,
-            'filters' => $request->only(['type', 'active']),
+            'filters' => array_merge($request->only(['type']), ['active' => $activeFilter]),
         ]);
     }
 
