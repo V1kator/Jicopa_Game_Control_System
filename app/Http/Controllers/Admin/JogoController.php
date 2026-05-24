@@ -185,7 +185,7 @@ class JogoController extends Controller
         $hora_fim = $hora_inicio->copy()->addHour(); // Assume 1 hour duration
 
         $query = Jogo::where('local', $local)
-            ->where('data', $data)
+            ->whereDate('data', $data)
             ->where('cancelado', false);
 
         if ($excludeId) {
